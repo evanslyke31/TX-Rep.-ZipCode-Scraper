@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="HtmlAgilityPack" Version="1.11.32" />
+    <PackageReference Include="IronXL.Excel" Version="2020.12.2" />
     <PackageReference Include="itext7" Version="7.1.14" />
   </ItemGroup>
 
