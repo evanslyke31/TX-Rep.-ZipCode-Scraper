@@ -6,4 +6,9 @@
     <RootNamespace>TX_Rep._ZipCode_Scraper</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.32" />
+    <PackageReference Include="itext7" Version="7.1.14" />
+  </ItemGroup>
+
 </Project>
